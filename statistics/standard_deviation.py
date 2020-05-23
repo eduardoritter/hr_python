@@ -13,7 +13,6 @@ print("%.1f" %(sum(squared_distance) / number ) ** 0.5)
 """ 
    Solution using Python 3
 """
-
 from statistics import pstdev
 
 print("%.1f" % pstdev(elements))
